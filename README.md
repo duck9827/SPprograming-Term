@@ -36,6 +36,20 @@
 
 
 
+### 게임흐름도
+
+![1](https://user-images.githubusercontent.com/34498148/113508862-5b529c00-958d-11eb-8dbb-cc96be7357ab.png)
+
+![2](https://user-images.githubusercontent.com/34498148/113509285-b5ecf780-958f-11eb-87c9-f5a53ca86635.png)
+
+![3](https://user-images.githubusercontent.com/34498148/113509287-b9807e80-958f-11eb-947e-e78959e45b0d.png)
+
+![4](https://user-images.githubusercontent.com/34498148/113509289-bbe2d880-958f-11eb-8a2f-bd9aefc0523e.png)
+
+
+
+***
+
 
 ### 개발 범위(추가범위)
 
